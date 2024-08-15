@@ -1,4 +1,4 @@
-# # 🧠 LangChain with RAG
+# 🧠 LangChain with RAG
 
 This project was developed to demonstrate the capabilities of LangChain when combined with Retrieval-Augmented Generation (RAG). The application is designed to process web and PDF documents, particularly scientific articles, and generate contextually relevant responses using OpenAI's GPT-4 model.
 
